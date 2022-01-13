@@ -1,0 +1,15 @@
+/templates
+    |
+    |---Index.html
+  
+/static
+    | --- css
+    |    | --- app.css
+    |
+    | --- js
+        |--- hist.js
+        
+/data
+    | --- faithful.csv
+
+app.py
