@@ -1,3 +1,7 @@
+This app is an example of how to create dynamic bins for histogram in flask with Rshiny style look. 
+They key take away is showing how to manipulate the plotly plot with AJAX front end JS code.
+NOTE: UNTIL FILTERED THERE IS NO PLOT!!!
+
 /templates
     |
     |---Index.html
